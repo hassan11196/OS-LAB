@@ -1,2 +1,2 @@
 # OS-LAB
-OS Assignment 1 - Operating Systems(CS205) - Miss Tania Erum - Spring 2019 - FAST(NUCES)
+OS Lab Tasks - Operating Systems(CL205) - Abdullah Soomro - Spring 2019 - FAST(NUCES)
